@@ -1,0 +1,10 @@
+[
+  { "name": "Anna", "marriage": "Łukasz" },
+  { "name": "Łukasz", "marriage": "Anna" },
+  { "name": "Tomek", "marriage": "Aga" },
+  { "name": "Aga", "marriage": "Tomek" },
+  { "name": "Zofia", "marriage": "Marcin" },
+  { "name": "Marcin", "marriage": "Zofia" },
+  { "name": "Piotr", "marriage": "Maria" },
+  { "name": "Maria", "marriage": "Piotr" }
+]
