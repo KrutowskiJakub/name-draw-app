@@ -24,7 +24,7 @@ const App = () => {
   // Handle "Losuj" button click
   const handleLosuj = async () => {
     if (!name) {
-      alert("Please select a name before drawing!");
+      alert("Wybierz imie zanim wylosujesz!");
       return;
     }
 
